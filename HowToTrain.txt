@@ -1,0 +1,9 @@
+URL to tutorial: https://www.youtube.com/watch?v=Fxy6WTnUIww
+
+
+After training the model I've added the following lines to save and download it from colab:
+
+os.chdir('/content')
+model.save("tumor_model3")
+
+!zip -r /content/file3.zip /content/tumor_model3
