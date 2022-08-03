@@ -1,6 +1,6 @@
 # BrainTumorDetection
 
-Here you can download the model but keep in mind it was trained with keras 2.4.3 and tensorflow 2.3.1, so it might not work with your versions.
+Here you can download the model but keep in mind it was trained with keras 2.4.3 and tensorflow 2.3.1, so it might not work with your versions. Check HowToTrain.txt file to get instrunctions on how to train your own model.
 
 https://drive.google.com/drive/folders/1eC-eQwSS0OybUSO8KQowK7TuJA-tVg_F?usp=sharing
 
